@@ -1,0 +1,382 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SunopsisExport>
+<Admin RepositoryVersion="04.03.04.02" />
+<Object class="com.sunopsis.dwg.dbobj.SnpTrt">
+		<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-10-20 12:38:49.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[leandro_cosis]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndJrnMethod" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IndSuppSetBased" type="java.lang.String">null</Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[437312]]></Field>
+	<Field name="IProject" type="com.sunopsis.sql.DbInt"><![CDATA[201312]]></Field>
+	<Field name="IScBaseTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScOrigTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTrt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[3645312]]></Field>
+	<Field name="ITxtTrtTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KimMultiDserver" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KmDefault" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KmSrcTechno" type="java.lang.String">null</Field>
+	<Field name="KmTechno" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="KmVersion" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-10-20 12:38:49.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[leandro_cosis]]></Field>
+	<Field name="LChecksum" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LCode" type="java.lang.String">null</Field>
+	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="TrtName" type="java.lang.String"><![CDATA[prTESTE]]></Field>
+	<Field name="TrtType" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpLineTrt">
+		<Field name="AlwaysExe" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ColConnectId" type="java.lang.String">null</Field>
+	<Field name="ColContextCode" type="java.lang.String">null</Field>
+	<Field name="ColIndCommit" type="java.lang.String">null</Field>
+	<Field name="ColIsolLevel" type="java.lang.String">null</Field>
+	<Field name="ColITxt" type="com.sunopsis.sql.DbInt"><![CDATA[170590312]]></Field>
+	<Field name="ColLschemaName" type="java.lang.String"><![CDATA[ORACLE_CARTDB_CC_OWNER]]></Field>
+	<Field name="ColPlanComp" type="java.lang.String">null</Field>
+	<Field name="ColTechno" type="java.lang.String"><![CDATA[ORACLE]]></Field>
+	<Field name="DefConnectId" type="java.lang.String">null</Field>
+	<Field name="DefContextCode" type="java.lang.String">null</Field>
+	<Field name="DefIndCommit" type="java.lang.String">null</Field>
+	<Field name="DefIsolLevel" type="java.lang.String">null</Field>
+	<Field name="DefITxt" type="com.sunopsis.sql.DbInt"><![CDATA[170589312]]></Field>
+	<Field name="DefLschemaName" type="java.lang.String">null</Field>
+	<Field name="DefPlanComp" type="java.lang.String">null</Field>
+	<Field name="DefTechno" type="java.lang.String"><![CDATA[BEANSHELL]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2017-10-20 12:38:49.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[leandro_cosis]]></Field>
+	<Field name="IndErr" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogFinalCmd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLogMethod" type="java.lang.String">null</Field>
+	<Field name="IndLogNb" type="java.lang.String">null</Field>
+	<Field name="ITrt" type="com.sunopsis.sql.DbInt"><![CDATA[3645312]]></Field>
+	<Field name="KcmAk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmCond" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmErrDel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmJoin" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KcmPk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimDrvdSel" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KimJrnPop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmCreate" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmDrop" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmExtend" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmLock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmPurge" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetInstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSetUninstall" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmSubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmTableOrder" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnlock" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KjmUnsubscribe" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmAfterInt" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmIdx" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KlmJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="KxmUsed" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2017-10-20 12:38:49.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[leandro_cosis]]></Field>
+	<Field name="LogLevDet" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="OrdTrt" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SqlName" type="java.lang.String"><![CDATA[Command 0]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[170589312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[import java.sql.*;
+import java.lang.*;
+
+//Declaraçao de variáveis
+String responseString = "";	//Variavel auxiliar para leitura da resposta
+String outputString = "";	//Resultado da execução do WS
+String lancamentoID = "";	//Identificador do lançamento lido do WS
+String descErro = "";		//Descrição do erro quando a resposta não for válida
+String codErro = "";		//Código do erro quando a resposta nao for válida
+String valueResponse = "";	//Variável auxiliar para obter a resposta do WS
+String tagToSearch = "";	//Tag utilizada para buscar a resposta do WS
+String refreshCommand = "";	//Comando a ser executado para atualizar o status da execução do WS
+int statusProcessamento = 1; 	//Variável que determina o status do processamento
+int code = 0;			//Codigo de requisição HTTP
+
+//String controlTable = "CC_OWNER.CC_VISA_PCT_EFE_LCT";
+String controlTable = "#TB_NAME";
+
+//Atualizando inicio do processo
+String updateCommand =  "UPDATE " + controlTable + " SET CD_ST_PCT = " + statusProcessamento + ", DT_EXC_INI = SYSDATE WHERE CD_SEQ_PCT_EFE_LCT = #CD_SEQ_PCT_EFE_LCT";
+Connection myCon = snpRef.getJDBCConnection("SRC");
+Statement stmtStart = myCon.createStatement();
+stmtStart.execute(updateCommand);
+
+//Preparação dos objetos para execução SOAP
+//String wsURL = "http://bpeltrans.hom.sicredi.net/soa-infra/services/ContaCorrente/LancamentoFinanceiroProject/LancamentoFinanceiroService";
+String wsURL = "#NOME_SERVIDOR_WS_ID_MOVIMENTO#NOME_CAMINHO_WS_ID_MOVIMENTO";
+ 
+try {
+
+URL url = new URL(wsURL);
+URLConnection connection = url.openConnection();
+HttpURLConnection httpConn = (HttpURLConnection)connection;
+
+
+ByteArrayOutputStream bout = new ByteArrayOutputStream();
+String xmlInput = "<soapenv:Envelope xmlns:soapenv=\"http://schemas.xmlsoap.org/soap/envelope/\" \n" +
+" xmlns:lan=\"http://sicredi.com.br/contas/movimento/LancamentoFinanceiroService\" \n" +
+" xmlns:v1=\"http://sicredi.com.br/contas/contacorrente/movimento/cmodel/v1/\" \n" +
+" xmlns:v11=\"http://sicredi.com.br/corporativo/negocio/movimento/cmodel/v1/\" \n" +
+" xmlns:v12=\"http://sicredi.com.br/contas/conta/cmodel/v1/\"> \n" +
+"   <soapenv:Header/>\n" +
+"   <soapenv:Body>\n" +
+"      <lan:efetivarLancamentoFinanceiro>\n" +
+"         <inEfetivarLancamentoFinanceiro>\n" +
+"            <v1:MovimentoContaCorrente>\n" +
+"               <v11:data>#DT_MOV</v11:data>\n" +
+"               <v11:codigo>#CD_MOV</v11:codigo>\n" +
+"               <v11:numeroDocumento>#NUM_MOV</v11:numeroDocumento>\n" +
+"               <v11:valor>#VL_MOV</v11:valor>\n" +
+"               <v12:Conta>\n" +
+"                  <v12:codigoBanco>#CD_BCO_CTA</v12:codigoBanco>\n" +
+"                  <v12:codigoAgencia>#CD_AGE_CTA</v12:codigoAgencia>\n" +
+"                  <v12:numero>#NU_CTA</v12:numero>\n" +
+"                  <v12:digitoVerificador>#NU_DGT</v12:digitoVerificador>\n" +
+"               </v12:Conta>\n" +
+"            </v1:MovimentoContaCorrente>\n" +
+"            <v11:OrigemMovimento>\n" + 
+"               <v11:cooperativa>#CD_COO</v11:cooperativa>\n" + 
+"               <v11:posto>#CD_POS</v11:posto>\n" + 
+"               <v11:sistema>#CD_SIS</v11:sistema>\n" + 
+"               <v11:usuario>#CD_USU</v11:usuario>\n" + 
+"            </v11:OrigemMovimento>\n" +
+"            <MovimentoCondicional>#SN_MOV_CND</MovimentoCondicional>\n" +
+"         </inEfetivarLancamentoFinanceiro>\n" +
+"      </lan:efetivarLancamentoFinanceiro>\n" +
+"   </soapenv:Body>\n" +
+"</soapenv:Envelope>";
+
+
+byte[] buffer = new byte[xmlInput.length()];
+buffer = xmlInput.getBytes();
+bout.write(buffer);
+byte[] b = bout.toByteArray(); 
+String SOAPAction = wsURL + "/efetivarLancamentoFinanceiro";
+
+// Configurando os parâmetros HTTPs
+httpConn.setRequestProperty("Content-Length", String.valueOf(b.length));
+httpConn.setRequestProperty("Content-Type", "text/xml; charset=utf-8");
+httpConn.setRequestProperty("SOAPAction", SOAPAction);
+httpConn.setRequestMethod("POST");
+httpConn.setDoOutput(true);
+httpConn.setDoInput(true);
+OutputStream out = httpConn.getOutputStream();
+
+//Escrevendo o conteúdo da requisição obtido na conexão HTTP.
+out.write(b);
+out.close();
+
+//Verificando o resultado da requisição
+code = httpConn.getResponseCode();
+String responseMessage = httpConn.getResponseMessage();
+ 
+//Se o processo foi efetuado com sucesso
+if (code == 200) {
+
+	//Lendo a resposta
+	InputStreamReader isr = new InputStreamReader(httpConn.getInputStream());
+	BufferedReader in = new BufferedReader(isr);
+
+	//Escrevendo o conteúdo da mensagem SOAP em uma string.
+	while ((responseString = in.readLine()) != null) {
+		outputString = outputString + responseString;
+	}
+
+	codErro = "0";
+	descErro = "";
+	statusProcessamento = 2;
+	tagToSearch = "IDLancamentoFinanceiro";
+
+	//Definindo a TAG necessária para obter o resultado
+	String startString = "<" + tagToSearch + ">";
+	String endString = "</" + tagToSearch + ">";
+
+	//Buscando o conteúdo no resultado SOAP
+	int startIndex = outputString.indexOf(startString);
+	int endIndex = outputString.indexOf(endString);
+	if (startIndex != -1 && endIndex != -1) {
+		valueResponse = outputString.substring(startIndex + startString.length(), endIndex);
+	}	
+	lancamentoID = valueResponse;
+}
+//Se houve erro na execuçao do processo
+else {
+	 
+	//Lendo o erro
+	InputStreamReader isr = new InputStreamReader(httpConn.getErrorStream());
+	BufferedReader in = new BufferedReader(isr);
+
+	//Escrevendo o conteúdo da mensagem SOAP em uma string.
+	while ((responseString = in.readLine()) != null) {
+		outputString = outputString + responseString;
+	}
+
+	statusProcessamento = 3;
+	
+	//Buscando a descrição do Erro
+	tagToSearch = "desErro";
+
+	//Definindo a TAG necessária para obter o resultado
+	String startString = "<" + tagToSearch + ">";
+	String endString = "</" + tagToSearch + ">";
+
+	//Buscando o conteúdo no resultado SOAP
+	int startIndex = outputString.indexOf(startString);
+	int endIndex = outputString.indexOf(endString);
+	if (startIndex != -1 && endIndex != -1) {
+		valueResponse = outputString.substring(startIndex + startString.length(), endIndex);
+	}	
+	descErro = valueResponse;
+
+	if (descErro.length() == 0)
+		descErro = "Erro generico na requisiçao.";
+
+	//Buscando o código de erro
+	tagToSearch = "codErro";
+
+	//Definindo a TAG necessária para obter o resultado
+	startString = "<" + tagToSearch + ">";
+	endString = "</" + tagToSearch + ">";
+
+	//Buscando o conteúdo no resultado SOAP
+	startIndex = outputString.indexOf(startString);
+	endIndex = outputString.indexOf(endString);
+	if (startIndex != -1 && endIndex != -1) {
+		valueResponse = outputString.substring(startIndex + startString.length(), endIndex);
+	}	
+	codErro = valueResponse;
+
+	if (codErro.length() == 0)
+		codErro = "99";
+}
+
+}
+catch (Exception ex) {
+	codErro = "99";
+	descErro = "Erro na conexão do servidor.";
+	statusProcessamento = 3;
+}
+  
+
+//Atualizando o resultado da execução
+refreshCommand =  "UPDATE " + controlTable + " SET CD_ST_PCT = " + statusProcessamento + ", ID_LCT='" + lancamentoID + "', CD_RST_PCT = '" + code + "', TX_MSG_ERRO_EMISSOR = '" + descErro + "', DT_EXC_FIN = SYSDATE, CD_ST_EMISSOR = '" + codErro + "' WHERE CD_SEQ_PCT_EFE_LCT = #CD_SEQ_PCT_EFE_LCT";
+
+Connection myCon = snpRef.getJDBCConnection("SRC");
+Statement stmtRefresh = myCon.createStatement();
+stmtRefresh.execute(refreshCommand);
+
+
+//--------------------------------------------------------------------------------
+//DEBUG: Escrevendo o conteúdo em arquivo
+/*
+PrintWriter writer = new PrintWriter("c://temp//res_#CD_SEQ_PCT_EFE_LCT.txt", "UTF-8");
+writer.println("--------------------------------------------------------------------------------");
+writer.println("CODIGO: " + code);
+writer.println("MENSAGEM: " + responseMessage);
+writer.println("ID: " + lancamentoID);
+writer.println("ERRO: " + descErro);
+writer.println("CODIGO: " + codErro);
+//writer.println(xmlInput);
+writer.println("\n\n");
+writer.println(outputString);
+writer.close();
+
+PrintWriter w = new PrintWriter("c://temp//command_#CD_SEQ_PCT_EFE_LCT.txt", "UTF-8");
+w.println(wsURL);
+w.println(updateCommand);
+w.println(refreshCommand);
+w.close();
+*/
+//--------------------------------------------------------------------------------
+
+ ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[102]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Target Technology]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[DEF_I_TXT]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_LINE_TRT]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[170590312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[SELECT 
+  CD_SEQ_PCT_EFE_LCT, 
+  TO_CHAR(DT_MOV, 'YYYY-MM-DD') as DT_MOV, 
+  CD_MOV, 
+  NUM_MOV,
+  VL_MOV, 
+  CD_BCO_CTA, 
+  CD_AGE_CTA, 
+  NU_CTA, 
+  NU_DGT, 
+  CD_COO, 
+  CD_POS,
+  CD_SIS,
+  CD_USU,
+  SN_MOV_CND,
+  '<%=odiRef.getObjectName("L", "CC_VISA_PCT_EFE_LCT", "D")%>' as TB_NAME
+  FROM <%=odiRef.getObjectName("L", "CC_VISA_PCT_EFE_LCT", "D")%>  
+ WHERE CD_ST_PCT = 0]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Source Technology]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[COL_I_TXT]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_LINE_TRT]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[399]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1503079174412]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1501001442898]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[312]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1342456646629]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[11.1.1.9.0 - 27/04/2015]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[312]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[04.03.04.02]]></Field>
+</Object>
+</SunopsisExport>

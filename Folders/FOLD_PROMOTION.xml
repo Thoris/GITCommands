@@ -1,0 +1,1677 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<SunopsisExport>
+<Admin RepositoryVersion="04.03.04.02" />
+<Object class="com.sunopsis.dwg.dbobj.SnpPop">
+		<Field name="CommitWork" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="DistinctRows" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[U]]></Field>
+	<Field name="IndWorkTarg" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IntVersion" type="com.sunopsis.sql.DbInt"><![CDATA[12]]></Field>
+	<Field name="IFolder" type="com.sunopsis.sql.DbInt"><![CDATA[48312]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPartition" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IScBasePop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScOrigPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IState" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrtKcm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITrtKim" type="com.sunopsis.sql.DbInt"><![CDATA[224312]]></Field>
+	<Field name="ITrtKlm" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtPopLib" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="KeyName" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2014-08-07 14:06:06.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[VALTER_MASSIMINO]]></Field>
+	<Field name="LschemaName" type="java.lang.String"><![CDATA[ORACLE_CRMINT_CRMDB_WORK]]></Field>
+	<Field name="MaxErr" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="MaxErrPrct" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ModCode" type="java.lang.String">null</Field>
+	<Field name="OptCtxCode" type="java.lang.String"><![CDATA[DESENVOLVIMENTO_SIEBEL]]></Field>
+	<Field name="OrdFolder" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PopName" type="java.lang.String"><![CDATA[inT$_SRC_REDECARD]]></Field>
+	<Field name="TableName" type="java.lang.String"><![CDATA[T$_SRC_CRT_REDCARD]]></Field>
+	<Field name="TargCtxCod" type="java.lang.String">null</Field>
+	<Field name="VLastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="Wstage" type="java.lang.String"><![CDATA[Z]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpDiagram">
+		<Field name="Background" type="java.lang.String">null</Field>
+	<Field name="DiagExt" type="java.lang.String"><![CDATA[etl_flow]]></Field>
+	<Field name="DiagName" type="java.lang.String"><![CDATA[etl_flow]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="ImageableHeight" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableWidth" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IDiagram" type="com.sunopsis.sql.DbInt"><![CDATA[1405312]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtDiagDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtXmiData" type="com.sunopsis.sql.DbInt"><![CDATA[14068312]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="Orientation" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PaperHeight" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PaperWidth" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Scaling" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14068312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:DI='http://xmlns.omg.org/DI/2.0'>
+  <documentation exporter='Oracle IDE' exporterVersion='11.1.1.6.3'/>
+  <DI:Diagram xmi:id='idc313c986-e68b-44d9-8276-428be62fee5e' zoom='0.0'>
+    <contained xmi:type='DI:GraphNode' xmi:id='id06bcf157-482f-4c9c-a16c-770cad390c1c'>
+      <contained xmi:type='DI:GraphNode' xmi:id='id8d12df33-9ef4-4cbd-8ba7-24c555f1b281'>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+        <size height='40.0' width='40.0'/>
+      </contained>
+      <contained xmi:type='DI:GraphNode' xmi:id='iddceda7b4-f20c-4662-b92e-e2d4d3861c82'>
+        <contained xmi:type='DI:GraphNode' xmi:id='id6bd9abb3-c43a-42f1-8800-ce3e97dd55b4'>
+          <contained xmi:type='DI:GraphNode' xmi:id='id730c1abc-c6ce-40cd-b1ca-ecf0f80c7f20'>
+            <anchorage xmi:id='idcff996de-379c-4887-be0f-7c522e746956' graphEdge='id42130c92-43d8-40cf-9901-8b0191acddea'/>
+            <contained xmi:type='DI:GraphNode' xmi:id='idd1803ee2-a485-4c73-938e-ea37d5140ff8'>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+              <size height='40.0' width='40.0'/>
+            </contained>
+            <contained xmi:type='DI:GraphNode' xmi:id='idc8180ec9-5574-483e-8bcf-0c3796dc6975'>
+              <contained xmi:type='DI:GraphNode' xmi:id='id9942bf8f-9b82-4b1b-9145-e57ae405ada4'>
+                <contained xmi:type='DI:GraphNode' xmi:id='id54892ca6-a967-4cb4-90ee-f363c5c432d3'>
+                  <contained xmi:type='DI:GraphNode' xmi:id='id2896e184-8534-4b8b-9316-4fdf7d84af0b'>
+                    <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+                    <size height='40.0' width='40.0'/>
+                  </contained>
+                  <contained xmi:type='DI:GraphNode' xmi:id='idf959881f-ab11-40f4-b3ca-47bddb0824b8'>
+                    <contained xmi:type='DI:GraphNode' xmi:id='id0b5eb2a4-900f-4079-a3f8-315d99244cbd'>
+                      <contained xmi:type='DI:GraphNode' xmi:id='id454cc22f-64e3-42d6-b151-9a34ee3cf0a1'>
+                        <anchorage xmi:id='id204089b4-6c14-4ae4-a118-7cd1202ef0af' graphEdge='ida0954d03-fa48-4c88-9358-3764a9cf0023 idb3720255-fe61-4dcc-aa64-a6c80cdaa50b idb8979272-0e0e-4930-8ee5-576a6e32240d'/>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id3c2aad3d-6d9f-40c8-a5d5-5ed5397b9329'>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+                          <size height='57.47607421875' width='106.859375'/>
+                        </contained>
+                        <contained xmi:type='DI:GraphNode' xmi:id='iddd96d65e-9752-42e1-a319-62e38cd8fb9b'>
+                          <contained xmi:type='DI:GraphNode' xmi:id='idff17369c-665d-44ae-a091-8ae54da71e52'>
+                            <property key='FirstVisibleIndex' value='0'/>
+                            <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+                            <size height='1.0' width='0.0'/>
+                          </contained>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+                          <size height='100.0' width='100.0'/>
+                        </contained>
+                        <position x='-1.2159347534179688E-5' y='342.9521484375'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='showAttributeVisibility' value='true'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#c6d6ff'/>
+                        <property key='showPackage' value='false'/>
+                        <property key='fontColor' value='#0'/>
+                        <property key='showAttributeType' value='true'/>
+                        <property key='sortAttributesAlpha' value='true'/>
+                        <property key='showStereotype' value='false'/>
+                        <property key='showAttributeStatic' value='true'/>
+                        <property key='showAttributes' value='true'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFD;;C1216312' presentation='COMPACT'/>
+                        <size height='57.47607421875' width='106.859375'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphNode' xmi:id='id53eae395-548f-4c17-8dcb-a8234503c258'>
+                        <anchorage xmi:id='id6d727dcd-953a-4956-bdb0-dca4646ae08a' graphEdge='id6c3d67c1-5f3d-4ec6-976a-b979ca912cc7 idd1d47f01-77e2-424d-906d-a75ba7e23244'/>
+                        <contained xmi:type='DI:GraphNode' xmi:id='idf3237cd3-c18e-4bbc-9d3a-1725195bbd5c'>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+                          <size height='57.47607421875' width='64.0'/>
+                        </contained>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id32b56699-cd18-4f2e-96fd-76fa071d4adf'>
+                          <contained xmi:type='DI:GraphNode' xmi:id='idafb3e686-7fa9-4a15-aee8-462487aa0724'>
+                            <property key='FirstVisibleIndex' value='0'/>
+                            <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+                            <size height='1.0' width='0.0'/>
+                          </contained>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+                          <size height='100.0' width='100.0'/>
+                        </contained>
+                        <position x='21.429698944091797' y='241.47607421875'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='showAttributeVisibility' value='true'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#c6d6ff'/>
+                        <property key='showPackage' value='false'/>
+                        <property key='fontColor' value='#0'/>
+                        <property key='showAttributeType' value='true'/>
+                        <property key='sortAttributesAlpha' value='true'/>
+                        <property key='showStereotype' value='false'/>
+                        <property key='showAttributeStatic' value='true'/>
+                        <property key='showAttributes' value='true'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFD;;C1217312' presentation='COMPACT'/>
+                        <size height='57.47607421875' width='64.0'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphNode' xmi:id='id51185e8f-1eb5-4124-a0e8-05c522967e91'>
+                        <anchorage xmi:id='id683efd74-6d4c-49bd-8ae2-463be2c7effb' graphEdge='id4eb1d36e-609a-4a57-8d43-d8b1456cc9d2'/>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id6d7f07d9-8555-4997-ab08-9232b39a1a5c'>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+                          <size height='57.47607421875' width='79.359375'/>
+                        </contained>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id78c25843-55ab-4a2f-8088-beb402262a84'>
+                          <contained xmi:type='DI:GraphNode' xmi:id='id4c17d792-d553-42ce-ab42-0a6a447030a2'>
+                            <property key='FirstVisibleIndex' value='0'/>
+                            <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+                            <size height='1.0' width='0.0'/>
+                          </contained>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+                          <size height='100.0' width='100.0'/>
+                        </contained>
+                        <position x='13.749987602233887' y='140.0'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='showAttributeVisibility' value='true'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#c6d6ff'/>
+                        <property key='showPackage' value='false'/>
+                        <property key='fontColor' value='#0'/>
+                        <property key='showAttributeType' value='true'/>
+                        <property key='sortAttributesAlpha' value='true'/>
+                        <property key='showStereotype' value='false'/>
+                        <property key='showAttributeStatic' value='true'/>
+                        <property key='showAttributes' value='true'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFD;;C1220312' presentation='COMPACT'/>
+                        <size height='57.47607421875' width='79.359375'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphNode' xmi:id='id592a6ef8-a5af-4367-b2ca-8c959df95711'>
+                        <anchorage xmi:id='id85578f47-cebb-46f5-9fea-c80671fee3e7' graphEdge='ida0954d03-fa48-4c88-9358-3764a9cf0023 idd1d47f01-77e2-424d-906d-a75ba7e23244'/>
+                        <position x='146.859375' y='273.9537353515625'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#ffffcc'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFJ;;J1222312'/>
+                        <size height='24.9984073638916' width='24.998437881469727'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphNode' xmi:id='idb03f6cc8-7701-45a0-aa8e-12739cbe9341'>
+                        <anchorage xmi:id='id0cfcae76-f1c9-4251-b064-c463b7d67aee' graphEdge='id4eb1d36e-609a-4a57-8d43-d8b1456cc9d2 id6c3d67c1-5f3d-4ec6-976a-b979ca912cc7'/>
+                        <position x='146.859375' y='204.955322265625'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#ffffcc'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFJ;;J1227312'/>
+                        <size height='24.998394012451172' width='24.998437881469727'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphNode' xmi:id='id32093075-ccf5-4a28-a22c-220d09ec3f24'>
+                        <anchorage xmi:id='id1049c87d-8eaf-4fa1-9218-1aba93c8ff06' graphEdge='idb8979272-0e0e-4930-8ee5-576a6e32240d'/>
+                        <position x='146.859375' y='411.9505615234375'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#ffffcc'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFF;;F1221312'/>
+                        <size height='24.998437881469727' width='24.998451232910156'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphNode' xmi:id='id35cd4b45-c69e-4742-bed6-01c3d33585f3'>
+                        <anchorage xmi:id='id0fd50d75-0136-4432-842c-42049ddd7c07' graphEdge='idb3720255-fe61-4dcc-aa64-a6c80cdaa50b'/>
+                        <position x='146.859375' y='342.9521179199219'/>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#a5a5a5'/>
+                        <property key='fillColor' value='#ffffcc'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFF;;F1223312'/>
+                        <size height='24.99846649169922' width='24.998451232910156'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphEdge' xmi:id='idb3720255-fe61-4dcc-aa64-a6c80cdaa50b' anchor='id204089b4-6c14-4ae4-a118-7cd1202ef0af id0fd50d75-0136-4432-842c-42049ddd7c07'>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id8e4f263d-c758-4c60-9a90-6eae95df126a'>
+                          <position x='-11.354413032531738' y='-24.799278259277344'/>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+                        </contained>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#646464'/>
+                        <property key='EdgeType' value='0'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;C1216312-F1223312'/>
+                        <waypoint x='106.85935974121094' y='363.49945068359375'/>
+                        <waypoint x='146.859375' y='357.36749267578125'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphEdge' xmi:id='idb8979272-0e0e-4930-8ee5-576a6e32240d' anchor='id204089b4-6c14-4ae4-a118-7cd1202ef0af id1049c87d-8eaf-4fa1-9218-1aba93c8ff06'>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id0891c7bf-ad69-4900-81e6-eab56dd6caf1'>
+                          <position x='10.498364448547363' y='-19.617324829101562'/>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+                        </contained>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#646464'/>
+                        <property key='EdgeType' value='0'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;C1216312-F1221312'/>
+                        <waypoint x='106.85935974121094' y='398.30169677734375'/>
+                        <waypoint x='146.859375' y='418.224365234375'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphEdge' xmi:id='ida0954d03-fa48-4c88-9358-3764a9cf0023' anchor='id204089b4-6c14-4ae4-a118-7cd1202ef0af id85578f47-cebb-46f5-9fea-c80671fee3e7'>
+                        <contained xmi:type='DI:GraphNode' xmi:id='ida7d31ed0-0b8e-45d1-9cc7-c0d4b8a060a0'>
+                          <position x='-25.85233497619629' y='-13.891556739807129'/>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+                        </contained>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#646464'/>
+                        <property key='EdgeType' value='0'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;C1216312-J1222312'/>
+                        <waypoint x='89.14396667480469' y='342.9521484375'/>
+                        <waypoint x='146.859375' y='296.5105895996094'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphEdge' xmi:id='idd1d47f01-77e2-424d-906d-a75ba7e23244' anchor='id6d727dcd-953a-4956-bdb0-dca4646ae08a id85578f47-cebb-46f5-9fea-c80671fee3e7'>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id13ac5d50-a49d-4fc0-9676-91ff21100b51'>
+                          <position x='0.35442495346069336' y='-24.799274444580078'/>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+                        </contained>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#646464'/>
+                        <property key='EdgeType' value='0'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;C1217312-J1222312'/>
+                        <waypoint x='85.42970275878906' y='275.11968994140625'/>
+                        <waypoint x='146.859375' y='284.53680419921875'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphEdge' xmi:id='id6c3d67c1-5f3d-4ec6-976a-b979ca912cc7' anchor='id6d727dcd-953a-4956-bdb0-dca4646ae08a id0cfcae76-f1c9-4251-b064-c463b7d67aee'>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id3b018f11-6ee7-4dfc-9c87-385adc2957d5'>
+                          <position x='-21.498361587524414' y='-19.617326736450195'/>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+                        </contained>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#646464'/>
+                        <property key='EdgeType' value='0'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;C1217312-J1227312'/>
+                        <waypoint x='85.42970275878906' y='254.2760009765625'/>
+                        <waypoint x='146.859375' y='223.67996215820312'/>
+                      </contained>
+                      <contained xmi:type='DI:GraphEdge' xmi:id='id4eb1d36e-609a-4a57-8d43-d8b1456cc9d2' anchor='id683efd74-6d4c-49bd-8ae2-463be2c7effb id0cfcae76-f1c9-4251-b064-c463b7d67aee'>
+                        <contained xmi:type='DI:GraphNode' xmi:id='id61191c82-15be-43e6-b51c-d0f8b846e1f6'>
+                          <position x='9.658734321594238' y='-20.33011245727539'/>
+                          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+                        </contained>
+                        <property key='font' value='SansSerif,plain,11'/>
+                        <property key='lineWidth' value='1.0'/>
+                        <property key='lineColor' value='#646464'/>
+                        <property key='EdgeType' value='0'/>
+                        <property key='fontColor' value='#0'/>
+                        <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;C1220312-J1227312'/>
+                        <waypoint x='93.10935974121094' y='186.98663330078125'/>
+                        <waypoint x='146.859375' y='211.70614624023438'/>
+                      </contained>
+                      <position x='-2.1421782970428467' y='140.0'/>
+                      <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='BodyCompartment'/>
+                    </contained>
+                    <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='EXPANDED'/>
+                    <size height='336.7849426269531' width='200.0'/>
+                  </contained>
+                  <position x='-3.342968702316284' y='-0.8738037347793579'/>
+                  <property key='GroupName' value='Group3'/>
+                  <property key='font' value='SansSerif,plain,11'/>
+                  <property key='lineWidth' value='1.0'/>
+                  <property key='titleAlignment' value='CENTER'/>
+                  <property key='lineColor' value='#a5a5a5'/>
+                  <property key='fillColor' value='#ffffcc'/>
+                  <property key='fontColor' value='#0'/>
+                  <property key='showTitle' value='true'/>
+                  <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFDS;;A481312' presentation='EXPANDED'/>
+                  <size height='336.7849426269531' width='200.0'/>
+                </contained>
+                <position x='-3.342968702316284' y='-0.8738037347793579'/>
+                <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='BodyCompartment'/>
+              </contained>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='EXPANDED'/>
+              <size height='376.6208801269531' width='226.0'/>
+            </contained>
+            <position x='-3.342968702316284' y='-0.8738037347793579'/>
+            <property key='GroupName' value='Group2'/>
+            <property key='font' value='SansSerif,plain,11'/>
+            <property key='lineWidth' value='1.0'/>
+            <property key='titleAlignment' value='CENTER'/>
+            <property key='lineColor' value='#a5a5a5'/>
+            <property key='fillColor' value='#c6d6ff'/>
+            <property key='fontColor' value='#0'/>
+            <property key='showTitle' value='true'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFASW;;SI439312' presentation='EXPANDED'/>
+            <size height='376.6208801269531' width='226.0'/>
+          </contained>
+          <contained xmi:type='DI:GraphNode' xmi:id='idecbe4f72-05b1-4bce-b950-9804770e80e7'>
+            <anchorage xmi:id='idca397b92-480c-4472-9355-f6672cbc44bd' graphEdge='id42130c92-43d8-40cf-9901-8b0191acddea'/>
+            <contained xmi:type='DI:GraphNode' xmi:id='id3604cb1f-8022-4f9c-a86c-bdb1a75d703b'>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+              <size height='57.47607421875' width='124.359375'/>
+            </contained>
+            <contained xmi:type='DI:GraphNode' xmi:id='id8e67770d-a9d6-43a0-ad3b-fb3d4a67cb81'>
+              <contained xmi:type='DI:GraphNode' xmi:id='idf0c2fe10-de63-428b-9b6e-cf3d1c7f624c'>
+                <property key='FirstVisibleIndex' value='0'/>
+                <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+                <size height='1.0' width='0.0'/>
+              </contained>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+              <size height='100.0' width='100.0'/>
+            </contained>
+            <position x='262.65704345703125' y='158.6986083984375'/>
+            <property key='font' value='SansSerif,plain,11'/>
+            <property key='showAttributeVisibility' value='true'/>
+            <property key='lineColor' value='#a5a5a5'/>
+            <property key='fillColor' value='#c6d6ff'/>
+            <property key='showPackage' value='false'/>
+            <property key='fontColor' value='#0'/>
+            <property key='showAttributeType' value='true'/>
+            <property key='sortAttributesAlpha' value='true'/>
+            <property key='showStereotype' value='false'/>
+            <property key='showAttributeStatic' value='true'/>
+            <property key='showAttributes' value='true'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFD;;D439312' presentation='COMPACT'/>
+            <size height='57.47607421875' width='124.359375'/>
+          </contained>
+          <contained xmi:type='DI:GraphEdge' xmi:id='id42130c92-43d8-40cf-9901-8b0191acddea' anchor='idcff996de-379c-4887-be0f-7c522e746956 idca397b92-480c-4472-9355-f6672cbc44bd'>
+            <contained xmi:type='DI:GraphNode' xmi:id='id07f46d27-7094-46f6-9eeb-2df9367c7809'>
+              <position x='-5.5' y='-25.47607421875'/>
+              <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='name'/>
+            </contained>
+            <property key='font' value='SansSerif,plain,11'/>
+            <property key='lineWidth' value='1.0'/>
+            <property key='lineColor' value='#646464'/>
+            <property key='EdgeType' value='0'/>
+            <property key='fontColor' value='#0'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFL;;SI439312-D439312'/>
+            <waypoint x='222.6570281982422' y='187.4366455078125'/>
+            <waypoint x='262.65704345703125' y='187.4366455078125'/>
+          </contained>
+          <position x='-3.342968702316284' y='-0.8738037347793579'/>
+          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='BodyCompartment'/>
+        </contained>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='EXPANDED'/>
+        <size height='416.4568176269531' width='416.359375'/>
+      </contained>
+      <position x='270.0' y='11.0'/>
+      <property key='GroupName' value='Group1'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='titleAlignment' value='CENTER'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='fillColor' value='#c6d6ff'/>
+      <property key='fontColor' value='#0'/>
+      <property key='showTitle' value='true'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETLF:ETLFAST;;T439312' presentation='EXPANDED'/>
+      <size height='416.4568176269531' width='416.359375'/>
+    </contained>
+    <property key='PageOrientation' value='1'/>
+    <property key='gridSize' value='15'/>
+    <property key='minLayoutDistance' value='40'/>
+    <property key='antialiasText' value='true'/>
+    <property key='EdgeCrossingType' value='2'/>
+    <property key='DiagramLayoutStyle' value='1'/>
+    <property key='maxEntriesInShape' value='10'/>
+    <property key='snapToGrid' value='false'/>
+    <property key='showGrid' value='false'/>
+    <property key='ContainerLayoutStyle' value='1'/>
+    <property key='maxShapeWidth' value='200'/>
+    <property key='PaperOrientation' value='Portrait'/>
+    <property key='PaperWidth' value='595.3323'/>
+    <property key='PaperHeight' value='841.9181'/>
+    <property key='PaperLeftMargin' value='72.0'/>
+    <property key='PaperTopMargin' value='72.0'/>
+    <property key='PaperRightMargin' value='72.0'/>
+    <property key='PaperBottomMargin' value='72.0'/>
+    <property key='PrintAreaX' value='0'/>
+    <property key='PrintAreaY' value='0'/>
+    <property key='PrintAreaWidth' value='0'/>
+    <property key='PrintAreaHeight' value='0'/>
+    <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='etl_flow'/>
+  </DI:Diagram>
+</xmi:XMI>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Graphical data of a diagram]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_TXT_XMI_DATA]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_DIAGRAM]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUeUsed">
+		<Field name="IUeOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[1467312]]></Field>
+	<Field name="IInstance" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="FkType" type="java.lang.String"><![CDATA[SNP_POP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUeOrig">
+		<Field name="IUeOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="OrigName" type="java.lang.String"><![CDATA[Interface]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_POP]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_POP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUeUsed">
+		<Field name="IUeOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[1466312]]></Field>
+	<Field name="IInstance" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="FkType" type="java.lang.String"><![CDATA[SNP_POP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUeUsed">
+		<Field name="IUeOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[1469312]]></Field>
+	<Field name="IInstance" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="FkType" type="java.lang.String"><![CDATA[SNP_POP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpUeUsed">
+		<Field name="IUeOrig" type="com.sunopsis.sql.DbInt"><![CDATA[103]]></Field>
+	<Field name="IUserExit" type="com.sunopsis.sql.DbInt"><![CDATA[1468312]]></Field>
+	<Field name="IInstance" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="ShortValue" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ITxtValue" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="FkType" type="java.lang.String"><![CDATA[SNP_POP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[3600]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[224312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_TRT : IKM Oracle Multi Table Insert]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[OID_PESSOA]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7571312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[-127]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[NUMBER]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[OID_PESSOA_PAI]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7569312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[2]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[-127]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[NUMBER]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[NOM_FANTASIA_PAI]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7570312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[55]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[VARCHAR2]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[DT_ALT]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7575312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[DATE]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[DT_PAG]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7573312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[DATE]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[NU_AGE_ESQ]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7572312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[NUMBER]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[NU_CTA_ESQ]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7574312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[6]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[7]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[CHAR]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[PJ_NOM_RAZAO_SOCIAL]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7594312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[115]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[8]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[VARCHAR2]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[PJ_OID_PESSOA]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7593312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[9]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[-127]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[NUMBER]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[PF_OID_PESSOA]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7592312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[10]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[-127]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[NUMBER]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopCol">
+		<Field name="CheckNotNull" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="ColName" type="java.lang.String"><![CDATA[COD_BANDEIRA]]></Field>
+	<Field name="ExeDb" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndIns" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndKeyUpd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd10" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd3" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd4" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd5" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd6" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd7" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd8" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUd9" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndUpd" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ICol" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[25452312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMapTxt" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="Longc" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="Pos" type="com.sunopsis.sql.DbInt"><![CDATA[11]]></Field>
+	<Field name="Scalec" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="SourceDt" type="java.lang.String"><![CDATA[VARCHAR2]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpDataSet">
+		<Field name="DsName" type="java.lang.String"><![CDATA[Default]]></Field>
+	<Field name="DsOperator" type="java.lang.String">null</Field>
+	<Field name="DsOrder" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpDiagram">
+		<Field name="Background" type="java.lang.String">null</Field>
+	<Field name="DiagExt" type="java.lang.String"><![CDATA[etl_diag]]></Field>
+	<Field name="DiagName" type="java.lang.String"><![CDATA[etl_diag]]></Field>
+	<Field name="ExtVersion" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="ImageableHeight" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableWidth" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ImageableY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndChange" type="java.lang.String"><![CDATA[I]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IDiagram" type="com.sunopsis.sql.DbInt"><![CDATA[1406312]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPackage" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[439312]]></Field>
+	<Field name="ISmod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtDiagDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtXmiData" type="com.sunopsis.sql.DbInt"><![CDATA[14069312]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="Orientation" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PaperHeight" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PaperWidth" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="Scaling" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14069312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[120]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[0]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[<?xml version='1.0' encoding='UTF-8' standalone='yes'?>
+<xmi:XMI xmi:version='2.1' xmlns:xmi='http://schema.omg.org/spec/XMI/2.1' xmlns:DI='http://xmlns.omg.org/DI/2.0'>
+  <documentation exporter='Oracle IDE' exporterVersion='11.1.1'/>
+  <DI:Diagram xmi:id='id7a5f9b81-7278-401f-9ae3-e4ad5467e8a9' zoom='0.0'>
+    <contained xmi:type='DI:GraphNode' xmi:id='id0972c42f-fe1f-47d3-baf0-02aa40afc266'>
+      <contained xmi:type='DI:GraphNode' xmi:id='id69f00ca8-c948-4031-bd52-1b268eeceaf2'>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+        <size height='40.0' width='40.0'/>
+      </contained>
+      <contained xmi:type='DI:GraphNode' xmi:id='id51c8d358-fd52-43a7-b0d0-5d3d30a6bae8'>
+        <contained xmi:type='DI:GraphNode' xmi:id='id4dc37cb2-3262-4bd0-b3df-4a2c30b0d2f6'>
+          <contained xmi:type='DI:GraphNode' xmi:id='idddd9ed80-3ede-41e1-8812-2c79a9e54dbe'>
+            <anchorage xmi:id='id7335b0e5-1673-439d-9893-3a50ecc0ed96' graphEdge='id2c32475f-0fc4-4604-8fbe-2ca7eea7a593'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLO;;NENT_COOP*COD_POSTO'/>
+          </contained>
+          <contained xmi:type='DI:GraphNode' xmi:id='idfc0be973-b1d5-4148-aaab-694dcc6d60d3'>
+            <anchorage xmi:id='idaf96894e-637c-455e-97fc-29a2e32ab39a' graphEdge='idffa724a4-4776-4b63-ba07-5bc91f5cffae'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLO;;NENT_COOP*AG'/>
+          </contained>
+          <contained xmi:type='DI:GraphNode' xmi:id='idcde47cea-594b-46f7-b9f2-c635d8786a0a'>
+            <anchorage xmi:id='id3533bcaf-0618-4e7d-8e2e-643c4b0eedda' graphEdge='id46324951-fa53-48b6-b749-5f1bcd6a6873'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLO;;NENT_COOP*OID_PES_BANCO'/>
+          </contained>
+          <property key='FirstVisibleIndex' value='0'/>
+          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+          <size height='1.0' width='0.0'/>
+        </contained>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+        <size height='278.47607421875' width='190.0'/>
+      </contained>
+      <position x='-350.88275146484375' y='5.59954833984375'/>
+      <property key='showAttributeVisibility' value='true'/>
+      <property key='showPackage' value='false'/>
+      <property key='showStereotype' value='false'/>
+      <property key='fontColor' value='#0'/>
+      <property key='sortAttributesAlpha' value='true'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='showAttributeStatic' value='true'/>
+      <property key='fillColor' value='#c6d6ff'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='showAttributes' value='true'/>
+      <property key='showAttributeType' value='true'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLD;;C1216312' presentation='SYMBOLIC'/>
+      <size height='278.47607421875' width='190.0'/>
+    </contained>
+    <contained xmi:type='DI:GraphNode' xmi:id='idcc43ca99-d983-423c-9dfb-c8bc2ca9e28d'>
+      <contained xmi:type='DI:GraphNode' xmi:id='idf7a5f440-b7f4-4f70-a716-155cc1771f42'>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+        <size height='40.0' width='40.0'/>
+      </contained>
+      <contained xmi:type='DI:GraphNode' xmi:id='id2ef7e28a-1c90-4e0e-8ffb-f41014f0fa04'>
+        <contained xmi:type='DI:GraphNode' xmi:id='id60443ce9-cd55-4a1e-ad5b-d64acc2f8c95'>
+          <contained xmi:type='DI:GraphNode' xmi:id='idd54e54b4-8f8f-4f73-a4a5-db68243891f7'>
+            <anchorage xmi:id='id1417face-701c-498b-8215-515bca5cc839' graphEdge='id03da17f1-d2bb-4fd7-b6db-1ccdfba09fbc'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLO;;NT_PES*ASSO_FPOSNUC'/>
+          </contained>
+          <contained xmi:type='DI:GraphNode' xmi:id='idf17be35d-ea58-4f50-a8ac-e19905965fa6'>
+            <anchorage xmi:id='idbfda725f-1be8-4ac3-9931-661806868521' graphEdge='idbc4eace9-c01d-4ed9-a2dd-a5d87d74b285'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLO;;NT_PES*ASSO_FCONTA'/>
+          </contained>
+          <property key='FirstVisibleIndex' value='37'/>
+          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+          <size height='1.0' width='0.0'/>
+        </contained>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+        <size height='278.4761047363281' width='146.51565551757812'/>
+      </contained>
+      <position x='-87.15531158447266' y='5.7919464111328125'/>
+      <property key='showAttributeVisibility' value='true'/>
+      <property key='showPackage' value='false'/>
+      <property key='showStereotype' value='false'/>
+      <property key='fontColor' value='#0'/>
+      <property key='sortAttributesAlpha' value='true'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='showAttributeStatic' value='true'/>
+      <property key='fillColor' value='#c6d6ff'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='showAttributes' value='true'/>
+      <property key='showAttributeType' value='true'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLD;;C1217312' presentation='SYMBOLIC'/>
+      <size height='278.4761047363281' width='146.51565551757812'/>
+    </contained>
+    <contained xmi:type='DI:GraphNode' xmi:id='idb331d86f-8ea9-46f3-a12f-744d216ab7be'>
+      <anchorage xmi:id='id231e5894-2a7d-489b-8182-4496c6a4cf22' graphEdge='id03da17f1-d2bb-4fd7-b6db-1ccdfba09fbc id2c32475f-0fc4-4604-8fbe-2ca7eea7a593'/>
+      <position x='-125.24329376220703' y='100.34947204589844'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='fillColor' value='#ffffcc'/>
+      <property key='fontColor' value='#0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLJ;;J1222312'/>
+      <size height='24.99837875366211' width='24.99837875366211'/>
+    </contained>
+    <contained xmi:type='DI:GraphNode' xmi:id='id2a87b691-419a-43c6-82b2-0d04cd27541a'>
+      <anchorage xmi:id='idaa6edebe-3128-4c29-afc6-f16a270ede8e' graphEdge='id46324951-fa53-48b6-b749-5f1bcd6a6873 idffa724a4-4776-4b63-ba07-5bc91f5cffae'/>
+      <position x='-420.85186767578125' y='39.9968376159668'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='fillColor' value='#ffffcc'/>
+      <property key='fontColor' value='#0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLC;;F1221312'/>
+      <size height='24.998455047607422' width='24.998437881469727'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id2c32475f-0fc4-4604-8fbe-2ca7eea7a593' anchor='id231e5894-2a7d-489b-8182-4496c6a4cf22 id7335b0e5-1673-439d-9893-3a50ecc0ed96'>
+      <property key='lineColor' value='#646464'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='EdgeType' value='0'/>
+      <property key='fontColor' value='#0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLA;;J1222312-NENT_COOP*COD_POSTO'/>
+      <waypoint x='-100.24491882324219' y='112.84866333007812'/>
+      <waypoint x='-164.88275146484375' y='170.0756378173828'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id03da17f1-d2bb-4fd7-b6db-1ccdfba09fbc' anchor='id231e5894-2a7d-489b-8182-4496c6a4cf22 id1417face-701c-498b-8215-515bca5cc839'>
+      <property key='lineColor' value='#646464'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='EdgeType' value='0'/>
+      <property key='fontColor' value='#0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLA;;J1222312-NT_PES*ASSO_FPOSNUC'/>
+      <waypoint x='-125.24329376220703' y='112.84866333007812'/>
+      <waypoint x='-84.15531158447266' y='25.268020629882812'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='idffa724a4-4776-4b63-ba07-5bc91f5cffae' anchor='idaa6edebe-3128-4c29-afc6-f16a270ede8e idaf96894e-637c-455e-97fc-29a2e32ab39a'>
+      <property key='lineColor' value='#646464'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='EdgeType' value='0'/>
+      <property key='fontColor' value='#0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLA;;F1221312-NENT_COOP*AG'/>
+      <waypoint x='-408.3798828125' y='52.4688720703125'/>
+      <waypoint x='-347.88275146484375' y='34.07563018798828'/>
+    </contained>
+    <contained xmi:type='DI:GraphNode' xmi:id='id8731cf2b-403c-4f33-9f5a-9fb8fe4316eb'>
+      <contained xmi:type='DI:GraphNode' xmi:id='id0093c236-f87d-4c16-8b2b-300a30000ec4'>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='COMPACT'/>
+        <size height='40.0' width='40.0'/>
+      </contained>
+      <contained xmi:type='DI:GraphNode' xmi:id='id4c963d14-dee6-4066-bfe2-83ef514f4fac'>
+        <contained xmi:type='DI:GraphNode' xmi:id='idbc423f96-844e-48dd-aea1-64e1e5917ca9'>
+          <contained xmi:type='DI:GraphNode' xmi:id='id49c3eb7f-bee7-4cf5-b4c9-22a46f59cff4'>
+            <anchorage xmi:id='id33f6955e-05a0-4834-ad6f-b1c564ed38fc' graphEdge='id8f026a85-cfad-48f2-9dff-3a609a4159aa'/>
+            <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLO;;NRC*NU_CTA_ESQ'/>
+          </contained>
+          <property key='FirstVisibleIndex' value='0'/>
+          <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='ColumnCompartment'/>
+          <size height='1.0' width='0.0'/>
+        </contained>
+        <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='SYMBOLIC'/>
+        <size height='159.47607421875' width='164.0'/>
+      </contained>
+      <position x='-89.0' y='-176.0'/>
+      <property key='showAttributeStatic' value='true'/>
+      <property key='showPackage' value='false'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='fillColor' value='#c6d6ff'/>
+      <property key='showAttributeVisibility' value='true'/>
+      <property key='showAttributeType' value='true'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='sortAttributesAlpha' value='true'/>
+      <property key='showStereotype' value='false'/>
+      <property key='fontColor' value='#0'/>
+      <property key='showAttributes' value='true'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLD;;C1220312' presentation='SYMBOLIC'/>
+      <size height='159.47607421875' width='164.0'/>
+    </contained>
+    <contained xmi:type='DI:GraphNode' xmi:id='idc875787f-d6eb-4327-ad10-751670ae191b'>
+      <anchorage xmi:id='id11e2fbc4-78a0-4778-b484-fab0fa74e5b7' graphEdge='id8f026a85-cfad-48f2-9dff-3a609a4159aa idbc4eace9-c01d-4ed9-a2dd-a5d87d74b285'/>
+      <position x='-172.99383544921875' y='-58.9938850402832'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='lineColor' value='#a5a5a5'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='fontColor' value='#0'/>
+      <property key='fillColor' value='#ffffcc'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLJ;;J1227312'/>
+      <size height='24.99840545654297' width='24.998394012451172'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='idbc4eace9-c01d-4ed9-a2dd-a5d87d74b285' anchor='id11e2fbc4-78a0-4778-b484-fab0fa74e5b7 idbfda725f-1be8-4ac3-9931-661806868521'>
+      <property key='lineWidth' value='1.0'/>
+      <property key='lineColor' value='#646464'/>
+      <property key='EdgeType' value='0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='fontColor' value='#0'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLA;;J1227312-NT_PES*ASSO_FCONTA'/>
+      <waypoint x='-172.99383544921875' y='-46.49468231201172'/>
+      <waypoint x='-84.15531158447266' y='25.268020629882812'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id46324951-fa53-48b6-b749-5f1bcd6a6873' anchor='idaa6edebe-3128-4c29-afc6-f16a270ede8e id3533bcaf-0618-4e7d-8e2e-643c4b0eedda'>
+      <property key='fontColor' value='#0'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='lineWidth' value='1.0'/>
+      <property key='EdgeType' value='0'/>
+      <property key='lineColor' value='#646464'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLA;;F1221312-NENT_COOP*OID_PES_BANCO'/>
+      <waypoint x='-408.355712890625' y='52.493003845214844'/>
+      <waypoint x='-347.88275146484375' y='51.07563018798828'/>
+    </contained>
+    <contained xmi:type='DI:GraphEdge' xmi:id='id8f026a85-cfad-48f2-9dff-3a609a4159aa' anchor='id11e2fbc4-78a0-4778-b484-fab0fa74e5b7 id33f6955e-05a0-4834-ad6f-b1c564ed38fc'>
+      <property key='EdgeType' value='0'/>
+      <property key='fontColor' value='#0'/>
+      <property key='lineColor' value='#646464'/>
+      <property key='font' value='SansSerif,plain,11'/>
+      <property key='lineWidth' value='1.0'/>
+      <semanticModel xmi:type='DI:CoreSemanticModelBridge' element='ETL:ETLA;;J1227312-NRC*NU_CTA_ESQ'/>
+      <waypoint x='-147.9954376220703' y='-46.49468231201172'/>
+      <waypoint x='-86.0' y='-28.52392578125'/>
+    </contained>
+    <property key='PageOrientation' value='1'/>
+    <property key='gridSize' value='15'/>
+    <property key='minLayoutDistance' value='40'/>
+    <property key='antialiasText' value='true'/>
+    <property key='EdgeCrossingType' value='2'/>
+    <property key='DiagramLayoutStyle' value='1'/>
+    <property key='maxEntriesInShape' value='10'/>
+    <property key='snapToGrid' value='false'/>
+    <property key='showGrid' value='false'/>
+    <property key='ContainerLayoutStyle' value='1'/>
+    <property key='maxShapeWidth' value='200'/>
+    <property key='PaperOrientation' value='Portrait'/>
+    <property key='PaperWidth' value='595.3323'/>
+    <property key='PaperHeight' value='841.9181'/>
+    <property key='PaperLeftMargin' value='72.0'/>
+    <property key='PaperTopMargin' value='72.0'/>
+    <property key='PaperRightMargin' value='72.0'/>
+    <property key='PaperBottomMargin' value='72.0'/>
+    <property key='PrintAreaX' value='0'/>
+    <property key='PrintAreaY' value='0'/>
+    <property key='PrintAreaWidth' value='0'/>
+    <property key='PrintAreaHeight' value='0'/>
+    <semanticModel xmi:type='DI:SimpleSemanticModelBridge' typeInfo='etl_diag'/>
+  </DI:Diagram>
+</xmi:XMI>]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpSourceTab">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLookup" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndSelectLk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndSubAsDrvd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPartition" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPopSub" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScPopSub" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1216312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[89312]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="LschemaName" type="java.lang.String"><![CDATA[ORACLE_CRMINT_CRMDB_WORK]]></Field>
+	<Field name="ModCode" type="java.lang.String">null</Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="SrcTabAlias" type="java.lang.String"><![CDATA[ENT_COOP]]></Field>
+	<Field name="TableName" type="java.lang.String"><![CDATA[T$_ENTIDADE_COOP]]></Field>
+	<Field name="TabOrd" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[2400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[89312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[10312#T$_ENTIDADE_COOP]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_MODFOLDER : CRMINT_ORACLE #SNP_MODEL : CRMINT_CRMDB_WORK #SNP_SUBMODEL : Global #SNP_TABLE : T$_ENTIDADE_COOP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpSourceTab">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLookup" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndSelectLk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndSubAsDrvd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPartition" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPopSub" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScPopSub" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1217312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[91312]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="LschemaName" type="java.lang.String"><![CDATA[ORACLE_CRMINT_CRMDB_WORK]]></Field>
+	<Field name="ModCode" type="java.lang.String">null</Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="SrcTabAlias" type="java.lang.String"><![CDATA[T_PES]]></Field>
+	<Field name="TableName" type="java.lang.String"><![CDATA[T$_PESSOA]]></Field>
+	<Field name="TabOrd" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[2400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[91312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[10312#T$_PESSOA]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_MODFOLDER : CRMINT_ORACLE #SNP_MODEL : CRMINT_CRMDB_WORK #SNP_SUBMODEL : Global #SNP_TABLE : T$_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpSourceTab">
+		<Field name="ContextCode" type="java.lang.String">null</Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndJrn" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndLookup" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndSelectLk" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndSubAsDrvd" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IMod" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPartition" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPopSub" type="com.sunopsis.sql.DbInt"><![CDATA[390312]]></Field>
+	<Field name="IScPopSub" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IScTable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="LschemaName" type="java.lang.String"><![CDATA[ORACLE_CRMINT_CRMDB_WORK]]></Field>
+	<Field name="ModCode" type="java.lang.String">null</Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="SrcTabAlias" type="java.lang.String"><![CDATA[RC]]></Field>
+	<Field name="TableName" type="java.lang.String">null</Field>
+	<Field name="TabOrd" type="com.sunopsis.sql.DbInt"><![CDATA[5]]></Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[3100]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[390312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$REDECARD]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7592312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1217312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14129312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1217312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14129312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[T_PES.PF_OID_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[POP_MAPPING_TXT_MAP]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_TXT_MAP]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_POP_MAPPING]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7593312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1217312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14130312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1217312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14130312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[T_PES.PJ_OID_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7594312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1217312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14131312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1217312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14131312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[T_PES.PJ_NOM_RAZAO_SOCIAL]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7571312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1216312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14100312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1216312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_ENTIDADE_COOP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14100312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[ENT_COOP.OID_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7570312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1216312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14099312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1216312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_ENTIDADE_COOP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14099312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[ENT_COOP.NOM_FANTASIA_PAI]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7569312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1216312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14098312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1216312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_ENTIDADE_COOP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14098312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[ENT_COOP.OID_PESSOA_PAI]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7573312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14103312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1220312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14103312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[1]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[MAX(RC.DT_PAG)]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7575312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14105312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1220312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14105312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[1]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[MAX(RC.DT_ALT)]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7572312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14102312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1220312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14102312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[LPAD(RC.NU_AGE_ESQ,4,'0')]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[7574312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[14104312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1220312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14104312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[RC.NU_CTA_ESQ]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopMapping">
+		<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPopCol" type="com.sunopsis.sql.DbInt"><![CDATA[25452312]]></Field>
+	<Field name="ISourceTab" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtMap" type="com.sunopsis.sql.DbInt"><![CDATA[53014312]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1220312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[53014312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[130]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[RC.COD_BANDEIRA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopClause">
+		<Field name="ClauseType" type="java.lang.String"><![CDATA[3]]></Field>
+	<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndexTypeCode1" type="java.lang.String">null</Field>
+	<Field name="IndexTypeCode2" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLookup" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndOuter1" type="java.lang.String">null</Field>
+	<Field name="IndOuter2" type="java.lang.String">null</Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPopClause" type="com.sunopsis.sql.DbInt"><![CDATA[1221312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable1" type="com.sunopsis.sql.DbInt"><![CDATA[1216312]]></Field>
+	<Field name="ITable2" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSql" type="com.sunopsis.sql.DbInt"><![CDATA[14092312]]></Field>
+	<Field name="JoinType" type="java.lang.String">null</Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="OrdClause" type="com.sunopsis.sql.DbInt"><![CDATA[-1]]></Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1216312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_ENTIDADE_COOP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14092312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[124]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[ENT_COOP.AG = '#GLOBAL.vgSCHEMA_SOURCE' AND
+ENT_COOP.OID_PES_BANCO=3868241]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpOrigTxt">
+		<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[124]]></Field>
+	<Field name="OrigineName" type="java.lang.String"><![CDATA[Join expression of a PopClause]]></Field>
+	<Field name="SnpsCol" type="java.lang.String"><![CDATA[I_TXT_SQL]]></Field>
+	<Field name="SnpsTable" type="java.lang.String"><![CDATA[SNP_POP_CLAUSE]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopClause">
+		<Field name="ClauseType" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="FirstUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndexTypeCode1" type="java.lang.String">null</Field>
+	<Field name="IndexTypeCode2" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLookup" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndOuter1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndOuter2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPopClause" type="com.sunopsis.sql.DbInt"><![CDATA[1222312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable1" type="com.sunopsis.sql.DbInt"><![CDATA[1217312]]></Field>
+	<Field name="ITable2" type="com.sunopsis.sql.DbInt"><![CDATA[1216312]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSql" type="com.sunopsis.sql.DbInt"><![CDATA[14093312]]></Field>
+	<Field name="JoinType" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp"><![CDATA[2013-05-15 14:24:18.0]]></Field>
+	<Field name="LastUser" type="java.lang.String"><![CDATA[AUGUSTO_FERREIRA]]></Field>
+	<Field name="OrdClause" type="com.sunopsis.sql.DbInt"><![CDATA[-1]]></Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1216312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_ENTIDADE_COOP]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1217312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String">null</Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14093312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[124]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[SUBSTR(T_PES.ASSO_FPOSNUC, 1, 2)=ENT_COOP.COD_POSTO]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpPopClause">
+		<Field name="ClauseType" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="ExeDb" type="java.lang.String"><![CDATA[S]]></Field>
+	<Field name="FirstDate" type="java.sql.Timestamp">null</Field>
+	<Field name="FirstUser" type="java.lang.String">null</Field>
+	<Field name="HeightVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IndexTypeCode1" type="java.lang.String">null</Field>
+	<Field name="IndexTypeCode2" type="java.lang.String">null</Field>
+	<Field name="IndEnable" type="java.lang.String"><![CDATA[1]]></Field>
+	<Field name="IndLookup" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndOuter1" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IndOuter2" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="IDataSet" type="com.sunopsis.sql.DbInt"><![CDATA[481312]]></Field>
+	<Field name="IPop" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="IPopClause" type="com.sunopsis.sql.DbInt"><![CDATA[1227312]]></Field>
+	<Field name="ISrcSet" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITable1" type="com.sunopsis.sql.DbInt"><![CDATA[1217312]]></Field>
+	<Field name="ITable2" type="com.sunopsis.sql.DbInt"><![CDATA[1220312]]></Field>
+	<Field name="ITxtDesc" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="ITxtSql" type="com.sunopsis.sql.DbInt"><![CDATA[14101312]]></Field>
+	<Field name="JoinType" type="java.lang.String"><![CDATA[J]]></Field>
+	<Field name="LastDate" type="java.sql.Timestamp">null</Field>
+	<Field name="LastUser" type="java.lang.String">null</Field>
+	<Field name="OrdClause" type="com.sunopsis.sql.DbInt"><![CDATA[-1]]></Field>
+	<Field name="PosX" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="PosY" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+	<Field name="WidthVal" type="com.sunopsis.sql.DbInt"><![CDATA[null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1220312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : null]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpReferencedObject">
+		<Field name="IObject" type="com.sunopsis.sql.DbInt"><![CDATA[6400]]></Field>
+	<Field name="ObjectPKasString" type="java.lang.String"><![CDATA[1217312]]></Field>
+	<Field name="ObjectAKasString" type="java.lang.String"><![CDATA[]]></Field>
+	<Field name="Description" type="java.lang.String"><![CDATA[SNP_PROJECT : CRMINT_CARTOES_V1.00 #SNP_FOLDER : CRMINT_CARTOES #SNP_POP : inT$_SRC_REDECARD #SNP_DATASET : 439312:Default #SNP_SOURCETAB : T$_PESSOA]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpTxtHeader">
+		<Field name="Enc" type="java.lang.String"><![CDATA[0]]></Field>
+	<Field name="EncKey" type="java.lang.String">null</Field>
+	<Field name="ITxt" type="com.sunopsis.sql.DbInt"><![CDATA[14101312]]></Field>
+	<Field name="ITxtOrig" type="com.sunopsis.sql.DbInt"><![CDATA[124]]></Field>
+	<Field name="SqlIndGrp" type="java.lang.String"><![CDATA[2]]></Field>
+ <Field name="Txt" type="java.lang.String"><![CDATA[T_PES.ASSO_FCONTA=SUBSTR(RC.NU_CTA_ESQ, 1, 5) ||'-'||SUBSTR(RC.NU_CTA_ESQ, 6, 1)]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[399]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1503079174412]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1501001442898]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.dbobj.SnpImportRep">
+		<Field name="RepShortId" type="com.sunopsis.sql.DbInt"><![CDATA[312]]></Field>
+	<Field name="RepTimestamp" type="java.lang.String"><![CDATA[1342456646629]]></Field>
+</Object>
+<Object class="com.sunopsis.dwg.DwgExportSummary">
+		<Field name="ExpTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="InstObjNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="JoinNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyColNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="KeyNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="LinkDiagNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MorigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="MtxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OrigTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[3]]></Field>
+	<Field name="OtherObjectsNb" type="com.sunopsis.sql.DbInt"><![CDATA[32]]></Field>
+	<Field name="PlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="StepNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="TxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[16]]></Field>
+	<Field name="UeOrigNb" type="com.sunopsis.sql.DbInt"><![CDATA[1]]></Field>
+	<Field name="UeUsedNb" type="com.sunopsis.sql.DbInt"><![CDATA[4]]></Field>
+	<Field name="VarPlanAgentNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="ScenTxtNb" type="com.sunopsis.sql.DbInt"><![CDATA[0]]></Field>
+	<Field name="OdiVersion" type="java.lang.String"><![CDATA[11.1.1.9.0 - 27/04/2015]]></Field>
+	<Field name="OriginRepositoryID" type="com.sunopsis.sql.DbInt"><![CDATA[312]]></Field>
+	<Field name="RepositoryVersion" type="java.lang.String"><![CDATA[04.03.04.02]]></Field>
+</Object>
+</SunopsisExport>
